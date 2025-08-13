@@ -14,8 +14,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dnn-Yyy/Dnn-Yyy/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<img src="https://raw.githubusercontent.com/Dnn-Yyy/Dnn-Yyy/output/snake.svg" alt="Snake animation" />
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
-###
